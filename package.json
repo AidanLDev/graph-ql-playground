@@ -1,0 +1,11 @@
+{
+  "name": "graph-ql-app",
+  "version": "1.0.0",
+  "description": "An application created to play with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aidan Lowson <dev@aidanlowson.com>",
+  "license": "ISC"
+}
