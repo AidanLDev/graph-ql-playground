@@ -1,13 +1,16 @@
 {
-  "name": "graph-ql-app",
+  "name": "graphql-crash-course",
   "version": "1.0.0",
-  "description": "An application created to play with GraphQL",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
   },
-  "author": "Aidan Lowson <dev@aidanlowson.com>",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "@apollo/server": "^4.9.5",
     "graphql": "^16.8.1"
